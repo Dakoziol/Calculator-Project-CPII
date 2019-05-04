@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PostFix_InFix", "PostFix_InFix\PostFix_InFix.vcxproj", "{7590A246-7967-4128-B5F9-15333A96034A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7590A246-7967-4128-B5F9-15333A96034A}.Debug|x64.ActiveCfg = Debug|x64
+		{7590A246-7967-4128-B5F9-15333A96034A}.Debug|x64.Build.0 = Debug|x64
+		{7590A246-7967-4128-B5F9-15333A96034A}.Debug|x86.ActiveCfg = Debug|Win32
+		{7590A246-7967-4128-B5F9-15333A96034A}.Debug|x86.Build.0 = Debug|Win32
+		{7590A246-7967-4128-B5F9-15333A96034A}.Release|x64.ActiveCfg = Release|x64
+		{7590A246-7967-4128-B5F9-15333A96034A}.Release|x64.Build.0 = Release|x64
+		{7590A246-7967-4128-B5F9-15333A96034A}.Release|x86.ActiveCfg = Release|Win32
+		{7590A246-7967-4128-B5F9-15333A96034A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C26EFF6-8139-49B0-8BD6-3B4D8D357E24}
+	EndGlobalSection
+EndGlobal
